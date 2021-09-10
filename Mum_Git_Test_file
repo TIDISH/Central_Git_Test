@@ -2,4 +2,8 @@ Hi,
 This is Test file from Mum Git test server
 This is update 1 in this file
 This is update 2 in this file
+<<<<<<< HEAD
 This is update 4 in this file 
+=======
+This is update 3 from Singapore
+>>>>>>> 6f560f2ae0cc4ca7862a7cc50f04e13b900e7d68
